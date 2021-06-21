@@ -31,7 +31,7 @@
         "bootstrap-show-password": "^1.2.1",
         "bootstrap-timepicker": "^0.5.2",
         "bootstrap3-wysihtml5-bower": "^0.3.3",
-        "ckeditor4": "^4.14.0",
+        "ckeditor4": "^4.16.1",
         "gritter": "^1.7.4",
         "highcharts": "^7.2.1",
         "jquery": "^3.5.1",
